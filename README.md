@@ -27,3 +27,5 @@ create_project => titre le l'issue)
 
 `Bug urgent :`
 * hotfix/1-create_project 
+## Web Game Example
+Open `fix_snippet.js` for a JavaScript example showing how to update dynamic HTML without removing required elements.
